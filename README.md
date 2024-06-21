@@ -13,4 +13,6 @@ Description: Develop a simple login page using HTML, CSS for the front end, and 
 4. Testing:
    Thoroughly test the login page's functionality. Ensure that form validation and feedback messages work correctly.
 
-   Login Page : https://github.com/imankit-0912/Login-Page.git
+  Login Page Repository link : https://github.com/imankit-0912/Login-Page.git
+  Login Page live link : https://imankit-0912.github.io/Login-Page/
+
